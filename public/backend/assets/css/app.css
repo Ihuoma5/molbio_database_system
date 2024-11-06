@@ -205,7 +205,7 @@ File: Main Css File
 }
 
 body[data-topbar=dark] #page-topbar {
-  background-color: #252b3b;
+  background-color: #FF8B3C;
 }
 body[data-topbar=dark] .navbar-header .dropdown .show.header-item {
   background-color: rgba(255, 255, 255, 0.05);
@@ -278,7 +278,7 @@ body[data-layout=horizontal] .page-content {
   }
 }
 body[data-topbar=colored] #page-topbar {
-  background-color: #0f9cf3;
+  background-color: #FF8B3C;
 }
 body[data-topbar=colored] .navbar-header .dropdown .show.header-item {
   background-color: rgba(255, 255, 255, 0.05);
@@ -537,7 +537,7 @@ body[data-layout=horizontal] .footer {
 }
 
 .mm-active {
-  color: #0f9cf3 !important;
+  color: #FF8B3C !important;
 }
 .mm-active > a {
   color: #0f9cf3 !important;
@@ -698,7 +698,7 @@ body[data-sidebar=dark] .user-profile span {
   color: #ced4da !important;
 }
 body[data-sidebar=dark] .vertical-menu {
-  background: #252b3b;
+  background: #FF8B3C;
 }
 body[data-sidebar=dark] #sidebar-menu ul li a {
   color: #8590a5;
